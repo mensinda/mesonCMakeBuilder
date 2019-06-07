@@ -1,0 +1,3 @@
+[submodule "subprojects/cmake"]
+	path = subprojects/cmake
+	url = https://gitlab.kitware.com/cmake/cmake.git
