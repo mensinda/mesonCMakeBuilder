@@ -1,4 +1,4 @@
-# Meson CMake build warpper
+# Meson CMake build wrapper
 
 This repository is meant to demonstrate the reliability of the CMake
 subprojects implementation in meson. Actually building CMake with
@@ -6,11 +6,10 @@ this setup is not recommended.
 
 ## Requirements
 
-Currently [this development](https://github.com/mensinda/meson/tree/cmakeSourceFix)
-version of meson is required to build this project.
+Currently the current meson master is required to build this project.
 
 ```bash
-git clone -b cmakeSourceFix https://github.com/mensinda/meson.git
+git clone https://github.com/mesonbuild/meson.git
 ```
 
 ## Usage
