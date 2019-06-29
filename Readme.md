@@ -6,11 +6,8 @@ this setup is not recommended.
 
 ## Requirements
 
-Currently the current meson master is required to build this project.
-
-```bash
-git clone https://github.com/mesonbuild/meson.git
-```
+Meson version 0.51.0 is required to build this project. It can
+be installed via pip.
 
 ## Usage
 
